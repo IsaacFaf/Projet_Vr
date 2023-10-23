@@ -14,6 +14,10 @@ https://www.youtube.com/watch?v=b0bRw1faiws [Background]
 https://www.youtube.com/watch?v=XPqP5V0tqMo [Son succès]
 
 # Carte de l'environnement virtuel
+Ce sera situé dans une salle respectant l'ère victorienne (Entre 1837 et 1901) Pour respecter les premières apparitions des trappes à souris officiels en 1870
+![2a88940c8543ac870d10bd962d087751](https://github.com/IsaacFaf/Projet_Vr/assets/89608287/f7038f2d-7783-410c-a3ea-71e7e5e948a6)
+![télécharger](https://github.com/IsaacFaf/Projet_Vr/assets/89608287/04e12924-6887-4e96-a99f-c84191fdbdac)
+
 
 # Schéma de programmation
 ![ProgInter drawio](https://github.com/IsaacFaf/Projet_Vr/assets/89608287/9198d977-e4d4-45df-a1e3-a7d89cb4b53b)
