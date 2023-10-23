@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=u4jdgxDTNuk&t=6s [Narrateur]
 https://www.youtube.com/watch?v=b0bRw1faiws [Background]
 
 https://www.youtube.com/watch?v=XPqP5V0tqMo [Son succès]
+
+# Carte de l'environnement virtuel
+
+# Schéma de programmation
